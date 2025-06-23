@@ -4,7 +4,7 @@ public class Ques2 {
 
     public static void generateException() {
         String str = "hello";
-        char ch = str.charAt(10); // Invalid index
+        char ch = str.charAt(10); 
     }
 
     public static void handleException() {
